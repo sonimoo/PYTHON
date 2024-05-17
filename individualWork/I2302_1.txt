@@ -1,0 +1,65 @@
+even_weeks:
+
+Monday:
+2, 09:45-11:15, Programare Orientata Obiect (curs), 113/4, G. Latul
+3, 11:30-13:00, POO(lab), 143/4, G. Latul
+
+Tuesday:
+1, 08:00-09:30, Programare in Python (lab), 326/4, F. Schiopu
+2, 09:45-11:15, Filosofie (curs), 404/4, E. Tocarschi
+4, 13:15-14:45, Retele de calculator (lab), 251/4, E. Cuznetov
+
+Wednesday:
+2, 09:45-11:15, Programare in Python (curs), 213a/4, N. Plesca
+4, 13:15-14:45, Limba ronama, 415/4, S. Maznic
+
+Thursday: 
+3, 11:30-13:00, Limba ronama, 415/4, S. Maznic
+4, 13:15-14:45, Filosofie (sem), 419/4, E. Tocarschi
+
+Friday:
+2, 09:45-11:15, JavaS/TypeS (lab), 350/4, N. Nartea
+3, 11:30-13:00, Retele de calculator (curs), 213a/4, T. Bragaru 
+4, 13:15-14:45, JavaS/TypeS (curs), 213a/4, N. Nartea
+
+Saturday:
+1, 08:00-09:30, Programare in Python (lab), 326/4, F. Schiopu
+2, 09:45-11:15, Matematica Discreta (lab), 143/4, V. Izbas
+3, 11:30-13:00, Matematica Discreta (curs), 113/4, V. Izbas
+4, 13:15-14:45, Matematica Discreta (curs), 113/4, V. Izbas
+
+Sunday:
+
+
+odd_weeks:
+
+Monday:
+2, 09:45-11:15, Programare Orientata Obiect (curs), 113/4, G. Latul
+3, 11:30-13:00, POO(lab), 143/4, G. Latul
+
+Tuesday:
+1, 08:00-09:30, Programare in Python (lab), 326/4, F. Schiopu
+2, 09:45-11:15, Filosofie (curs), 404/4, E. Tocarschi
+4, 13:15-14:45, Retele de calculator (lab), 251/4, E. Cuznetov
+5, 15:00-16:30, Educatie fizica, sp. z, A. Salcoci
+
+Wednesday:
+2, 09:45-11:15, Programare in Python (curs), 213a/4, N. Plesca
+4, 13:15-14:45, Limba ronama, 415/4, S. Maznic
+
+Thursday: 
+3, 11:30-13:00, Limba ronama, 415/4, S. Maznic
+4, 13:15-14:45, Filosofie (sem), 419/4, E. Tocarschi
+
+Friday:
+2, 09:45-11:15, JavaS/TypeS (lab), 350/4, N. Nartea
+3, 11:30-13:00, Retele de calculator (curs), 213a/4, T. Bragaru 
+4, 13:15-14:45, JavaS/TypeS (curs), 213a/4, N. Nartea
+5, 15:00-16:30, Retele de calculator (lab), 251/4, E. Cuznetov
+
+Saturday:
+1, 08:00-09:30, Matematica Discreta (lab), 143/4, V. Izbas
+2, 09:45-11:15, Matematica Discreta (lab), 143/4, V. Izbas
+3, 11:30-13:00, Matematica Discreta (curs), 113/4, V. Izbas
+
+Sunday:

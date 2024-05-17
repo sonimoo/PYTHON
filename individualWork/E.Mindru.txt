@@ -1,0 +1,50 @@
+even_weeks:
+
+Monday:
+1, 08:00-09:30, Programare in Python (lab), 251/4, IA2301(ro) 1
+2, 09:45-11:15, Programare in Python (lab), 251/4, IA2301(ro) 2
+3, 11:30-13:00, RVA (lab), 423/4, DJ2301(ro) 1
+4, 13:15-14:45, RVA (lab), 423/4, DJ2301(ro) 2
+
+Tuesday:
+
+Wednesday:
+
+Thursday: 
+
+Friday:
+1, 08:00-09:30, Programare in Python (lab), 326/4, IA2301(ro) 1
+2, 09:45-11:15, Programare in Python (lab), 326/4, IA2301(ro) 2
+3, 11:30-13:00, Programare in Python (lab), 237/4, IA2302(ro) 1
+
+Saturday:
+1, 08:00-09:30, Programare in Python (lab), 251/4, I2302(ru) 2
+2, 09:45-11:15, Programare in Python (lab), 251/4, I2302(ru) 2
+3, 11:30-13:00, RVA (lab), 423/4, DJ2303(ru) 2
+
+Sunday:
+
+
+odd_weeks:
+
+Monday:
+2, 09:45-11:15, Programare in Python (lab), 251/4, IA2301(ro) 1
+3, 11:30-13:00, RVA (lab), 423/4, DJ2301(ro) 1
+4, 13:15-14:45, RVA (lab), 423/4, DJ2301(ro) 2
+
+Tuesday:
+
+Wednesday:
+
+Thursday: 
+
+Friday:
+1, 08:00-09:30, Programare in Python (lab), 326/4, IA2301(ro) 1
+2, 09:45-11:15, Programare in Python (lab), 326/4, IA2301(ro) 2
+3, 11:30-13:00, Programare in Python (lab), 237/4, IA2302(ro) 1
+
+Saturday:
+2, 09:45-11:15, Programare in Python (lab), 251/4, I2302(ru) 2
+3, 11:30-13:00, RVA (lab), 423/4, DJ2303(ru) 2
+
+Sunday:

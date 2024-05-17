@@ -1,0 +1,66 @@
+even_weeks:
+
+Monday:
+2, 09:45-11:15, Programare Orientata Obiect (curs), 113/4, G. Latul
+3, 11:30-13:00, Matematica Discreta (lab), 239/4, N. Cuciuc
+
+Tuesday:
+2, 09:45-11:15, Filosofie (curs), 404/4, E. Tocarschi
+4, 13:15-14:45, Programare Orientata Obiect (lab), 254/4, M. Malai
+
+Wednesday:
+2, 09:45-11:15, Programare in Python (curs), 213a/4, N. Plesca
+3, 11:30-13:00, Retele de calculator (lab), 251/4, E. Cuznetov
+4, 13:15-14:45, Limba ronama, 419/4, E. Braguta
+5, 15:00-16:30, JavaS/TypeS (lab), 350/4, N. Nartea
+
+Thursday: 
+4, 13:15-14:45, Filosofie (sem), 419/4, E. Tocarschi
+
+Friday:
+1, 08:00-09:30, Matematica Discreta (lab), 239/4, N. Cuciuc
+2, 09:45-11:15, Limba ronama, 415/4, E. Braguta
+3, 11:30-13:00, Retele de calculator (curs), 213a/4, T. Bragaru 
+4, 13:15-14:45, JavaS/TypeS (curs), 213a/4, N. Nartea
+
+Saturday:
+1, 08:00-09:30, Programare in Python (lab), 251/4, E. Mindru
+2, 09:45-11:15, Programare in Python (lab), 251/4, E. Mindru
+3, 11:30-13:00, Matematica Discreta (curs), 113/4, V. Izbas
+4, 13:15-14:45, Matematica Discreta (curs), 113/4, V. Izbas
+
+Sunday:
+
+
+odd_weeks:
+
+Monday:
+2, 09:45-11:15, Programare Orientata Obiect (curs), 113/4, G. Latul
+3, 11:30-13:00, Matematica Discreta (lab), 239/4, N. Cuciuc
+
+Tuesday:
+2, 09:45-11:15, Filosofie (curs), 404/4, E. Tocarschi
+3, 11:30-13:00, Retele de calculator (lab), 251/4, E. Cuznetov
+4, 13:15-14:45, Programare Orientata Obiect (lab), 254/4, M. Malai
+5, 15:00-16:30, Educatie fizica, sp. z, A. Salcoci
+
+Wednesday:
+2, 09:45-11:15, Programare in Python (curs), 213a/4, N. Plesca
+3, 11:30-13:00, Retele de calculator (lab), 251/4, E. Cuznetov
+4, 13:15-14:45, Limba ronama, 419/4, E. Braguta
+5, 15:00-16:30, JavaS/TypeS (lab), 350/4, N. Nartea
+
+Thursday: 
+4, 13:15-14:45, Filosofie (sem), 419/4, E. Tocarschi
+
+Friday:
+2, 09:45-11:15, Limba ronama, 415/4, E. Braguta
+3, 11:30-13:00, Retele de calculator (curs), 213a/4, T. Bragaru 
+4, 13:15-14:45, JavaS/TypeS (curs), 213a/4, N. Nartea
+
+Saturday:
+2, 09:45-11:15, Programare in Python (lab), 251/4, E. Mindru
+3, 11:30-13:00, Matematica Discreta (curs), 113/4, V. Izbas
+
+
+Sunday:
